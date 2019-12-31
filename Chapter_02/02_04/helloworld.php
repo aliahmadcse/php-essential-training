@@ -9,5 +9,7 @@
     <?php echo "Hello World!"; ?><br />
     <?php echo "Hello" . " World!"; ?><br />
     <?php echo 2 + 3; ?>
+    <?php /* hello
+    is this a commenting multiline. */ ?>
   </body>
 </html>
