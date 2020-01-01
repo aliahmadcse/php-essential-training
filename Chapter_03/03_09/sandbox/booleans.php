@@ -10,7 +10,10 @@
   <?php
   $result = true;
   $result1 = false;
-  echo is_bool($result);
+  // echo is_bool($result);
+  define("PI",3.1415);
+  // define("PI",3.14);
+  echo PI;
   ?>
 </body>
 
